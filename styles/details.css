@@ -1,0 +1,88 @@
+.crest{
+    max-height: 200px;
+    margin-top: 40%;
+    max-width: 150px;
+}
+.crest-flex{
+    max-height: 200px;
+    max-width: 150px;
+}
+
+.author{
+    font-weight: bold;
+    color: black;
+    margin-bottom: 0;
+}
+
+.img-big{
+    max-height: 400px;
+    height: auto;
+    width: fit-content;   
+}
+
+.reading-text{
+    /*margin-inline: 26rem;*/
+    margin-inline: 22%;
+    font-size: large;
+    font-weight:500;
+    font-weight: normal;
+    font-family: 'Prompt', sans-serif;
+}
+
+.last-img{
+    margin-bottom: 3rem;
+}
+
+.video{
+    max-height: 800px;
+    height: 100%;
+    width: 100%;
+    padding: 2%;
+}
+
+.reading-text-flex{
+    font-size: large;
+    font-weight:500;
+    font-weight: normal;
+    font-family: 'Prompt', sans-serif;
+}
+
+.text-box{
+    max-width: 750px;  
+}
+
+.video-box{
+    max-width: 900px;
+}
+
+.text-green{
+    color: rgb(19, 99, 19);
+}
+
+.reading-text-note{
+    font-size: large;
+    font-weight:bolder;
+    font-family: 'Prompt', sans-serif;   
+}
+.note-link{
+    font-size: medium;
+    font-family: 'Prompt', sans-serif;  
+    font-style: italic; 
+}
+.note-size{
+    width: 100%;
+}
+.fb-share-button{
+    height: 50px;
+}
+.icon-box{
+    max-height: 30px;
+    max-width: 30px;
+    height: 30px;
+    width: 30px
+}
+
+
+
+
+

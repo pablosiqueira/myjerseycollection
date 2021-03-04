@@ -1,0 +1,65 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+.img-carousel-box{
+    object-fit: cover ;
+    height: 400px;
+}
+
+.img-carousel-1{
+    object-position: 0 80%;
+    scale: 80%;
+}
+
+.img-carousel-2{
+    object-position: 0 50%;
+}
+
+.img-carousel-3{
+    object-position: 0 90%;
+    scale: 50%;
+}
+
+.font-lobster{
+    font-family: 'Lobster', cursive;
+}
+
+.font-nanum{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+.cor-especial{
+    color: darkred!important;
+}
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    height: 250px;
+}
+
+.card-1{
+    object-position: 0 10%;
+}
+
+.text_form{
+    font-weight: normal;
+    font-family: 'Prompt', sans-serif;
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+.nav_color{
+    background-color:darkred;
+}
