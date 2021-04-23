@@ -1,8 +1,10 @@
-.card-largura{
-    max-width: 18rem;
+.back-red, .btn{
+    background-color: darkred;
 }
 
-.img-carousel-box{
+
+
+.img-carousel-1, .img-carousel-2, .img-carousel-3{
     object-fit: cover ;
     height: 400px;
 }
@@ -20,7 +22,9 @@
     object-position: 0 90%;
     scale: 50%;
 }
-
+#main_title{
+    color: darkred;
+}
 .font-lobster{
     font-family: 'Lobster', cursive;
 }
@@ -29,18 +33,15 @@
     font-family: 'Nanum Gothic', sans-serif;
 }
 
-
-.cor-especial{
-    color: darkred!important;
-}
-
-.botao-cor-especial{
-    background-color: darkred;
+.btn{
     color: white;
 }
-
-.borda-cor-especial{
+.btn:hover{
+    color: yellow;
+}
+.card{
     border-color: darkred;
+    max-width: 18rem;
 }
 
 .card-posicao-imagem{
